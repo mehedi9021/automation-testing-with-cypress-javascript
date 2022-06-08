@@ -1,0 +1,6 @@
+Run cypress: node_modules\.bin\cypress open
+Run all test cases: node_modules\.bin\cypress run
+Run all test cases with browser: node_modules\.bin\cypress run --headed
+Run single test cases: node_modules\.bin\cypress run --spec "path"
+Run single test cases with browser: node_modules\.bin\cypress run --spec "path" --headed
+Run all test cases under chrome: node_modules\.bin\cypress run --browser chrome
