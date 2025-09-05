@@ -1,1 +1,1 @@
-# web-automation-with-cypress-javascript
+# web-automation-cypress-javascript
