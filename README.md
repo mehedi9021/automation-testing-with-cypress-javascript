@@ -1,1 +1,1 @@
-# Automation_Testing_with_Cypress
+# automation-testing-with-cypress
