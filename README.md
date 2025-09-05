@@ -1,1 +1,1 @@
-# automation-testing-with-cypress
+# automation-testing-with-cypress-javascript
